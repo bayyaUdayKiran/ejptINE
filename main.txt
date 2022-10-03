@@ -1,0 +1,4 @@
+*) A VPN uses cryptography to extend a private network over a public one. It's made by performing a protected connection to the private network. When your'e connected to the VPN your'e actually running the very same protocols of a private network. This allows you to perform even low-level network operations, like packet-sniffing.
+*) A shell code is a piece of custom code which provides the attacker a shell on victim machine. Shell codes are generally used during remote code execution attacks.
+*) During a Remote Code Execution attack, a malicious user manages to execute some attacker-controlled code on a victim machine. Remote code execution vulnerabilities are very dangerous b'coz they can be exploited over a network by a remote attacker.
+*) Security through Obscurity, is the use of secrecy of design, implementation of configuration in order to provide security. But actually security through obscurity can't stop a skilled & motivated attacker.
